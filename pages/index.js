@@ -17,8 +17,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          A blog site for coders 
-          <code className={styles.code}>by coders</code>
+        a blog site for coders by {' '}
+          <code className={styles.code}>Coders</code>
         </p>
 
         <div className={styles.grid}>
